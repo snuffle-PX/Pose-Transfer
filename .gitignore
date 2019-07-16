@@ -1,0 +1,5 @@
+.vscode
+.ipynb_checkpoints
+fashion_data/
+market_data/
+.idea
